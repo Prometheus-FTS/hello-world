@@ -1,2 +1,3 @@
 # hello-world
-juust setting this up 
+A new GPS Tracking Project
+I just changed the title
